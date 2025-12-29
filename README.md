@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aniket
+## Hi there 👋, I'm Aniket Singh
 
 <!--
 **aniiketsinghh/aniiketsinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

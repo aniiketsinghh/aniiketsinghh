@@ -1,69 +1,89 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Aniket Singh</h1>
+<h3 align="center">
+Full-Stack MERN Developer | DevOps & Generative AI Enthusiast
+</h3>
 
-Hey 👋 I’m **Aniket Singh**, a **Full-Stack MERN Developer** with a strong interest in **DevOps and Generative AI**.
-
-I enjoy building **end-to-end products** — from clean user interfaces to scalable backend systems and automated deployments. I focus on writing **production-ready code**, not just tutorial-level projects.
-
-Currently, I’m sharpening my skills in:
-- ⚙️ DevOps (Docker, Kubernetes, CI/CD with GitHub Actions)
-- 🤖 Integrating Generative AI into full-stack applications
-- 🧠 Data Structures & Problem Solving for technical interviews
-
-I believe in **learning by building**, contributing to open source, and continuously improving both my **engineering and communication skills**.
+<p align="center">
+  <a href="https://linkedin.com/in/aniket-singh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@srzKseries">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:aniketsingh2004ak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-singh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@srzKseries)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketsingh2004ak@gmail.com)
+- 🚀 Building **full-stack web applications** using the MERN stack with clean and scalable architecture  
+- ⚙️ Hands-on with **Docker, Kubernetes, and CI/CD pipelines (GitHub Actions)**  
+- 🤖 Exploring **Generative AI integration** in real-world full-stack products  
+- 🧠 Actively improving **DSA & problem-solving** for interviews  
+- 🌱 Believe in **learning by building**, not just watching tutorials  
+- 🎯 Goal: Become a strong **production-ready software engineer**
+
+---
+
+## 🔥 Featured Project
+
+### 📈 Full-Stack Stock Trading Platform
+- Built a **MERN-based trading platform** with authentication and user dashboards  
+- Implemented **secure APIs**, structured backend, and responsive UI  
+- Designed with scalability and future DevOps deployment in mind  
+
+**Tech Used:** React · Node.js · Express · MongoDB · JWT · Docker
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui)
 
 ### 🧠 Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### ⚙️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### 🛠️ Tools & Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aniiketsinghh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniiketsinghh&show_icons=true&theme=dark&count_private=true"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=aniiketsinghh&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aniiketsinghh&theme=dark"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniiketsinghh&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniiketsinghh&layout=compact&theme=dark"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aniiketsinghh&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aniiketsinghh&icon=0&color=0"/>
+</p>

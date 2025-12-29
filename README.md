@@ -4,7 +4,7 @@ Full-Stack MERN Developer | DevOps & Generative AI Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aniket-singh">
+  <a href="https://linkedin.com/in/aniketsinghdev07">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@srzKseries">

@@ -28,17 +28,6 @@ Full-Stack MERN Developer | DevOps & Generative AI Enthusiast
 
 ---
 
-## 🔥 Featured Project
-
-### 📈 Full-Stack Stock Trading Platform
-- Built a **MERN-based trading platform** with authentication and user dashboards  
-- Implemented **secure APIs**, structured backend, and responsive UI  
-- Designed with scalability and future DevOps deployment in mind  
-
-**Tech Used:** React · Node.js · Express · MongoDB · JWT · Docker
-
----
-
 ## 💻 Tech Stack
 
 ### 🚀 Frontend

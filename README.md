@@ -60,10 +60,6 @@ Full-Stack MERN Developer | DevOps & Generative AI Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniiketsinghh&show_icons=true&theme=dark&count_private=true"/>
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=aniiketsinghh&theme=dark"/>
 </p>
 
